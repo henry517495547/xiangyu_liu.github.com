@@ -1,2 +1,2 @@
 # Xiangyu Liu
-My Online Resume
+This is my online resume. The resume includes seven issues, that are: Education, Experience, Project, Skills, Leadership, and research publication
