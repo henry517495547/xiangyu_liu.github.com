@@ -1,2 +1,2 @@
-# Resume--Xiangyu Liu
+# Xiangyu Liu
 My Online Resume
